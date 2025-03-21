@@ -1,0 +1,12 @@
+{
+    "Name": "EndEncounter",
+    "Description": "Ends ACT encounters easily.",
+    "Punchline": "End ACT encounters easily.",
+    "InternalName": "EndEncounter",
+    "Author": "irisdotsh",
+    "Tags": [
+        "ACT",
+        "Encounter",
+        "EndEncounter"
+    ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.SDK/11.0.0">
+<PropertyGroup>
+    <Version>0.0.1</Version>
+    <Description>End ACT encounters easily.</Description>
+    <PackageProjectUrl>https://github.com/irisdotsh/EndEncounter</PackageProjectUrl>
+    <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+    <IsPackable>false</IsPackable>
+</PropertyGroup>
+
+    <ItemGroup>
+        <Content Include="EndEncounter.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="..\Icons\icon1.png">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+            <Visible>false</Visible>
+        </Content>
+    </ItemGroup>
+</Project>
